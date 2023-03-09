@@ -1,75 +1,75 @@
 [
   {
     "name": "Madara_Uchiha",
-    "village": "Stone",
+    "village": "Leaf",
     "objective": "Create a world of infinite tsukuyomi",
-    "slogan": "Power is not will, it is the phenomenon of physically making things happen"
+    "definition": "Ambition"
   },
   {
     "name": "Naruto_Uzumaki",
     "village": "Leaf",
     "objective": "Become Hokage and protect his friends",
-    "slogan": "Believe it!"
+    "definition": "Determination"
   },
   {
     "name": "Sasuke_Uchiha",
     "village": "Leaf",
     "objective": "Avenge his clan and restore its honor",
-    "slogan": "I will walk my own path, that's my ninja way"
+    "definition": "Vengeance"
   },
   {
     "name": "Pain",
     "village": "Rain",
     "objective": "Create peace through pain and fear",
-    "slogan": "Peace is just a shadow of death"
+    "definition": "Suffering"
   },
   {
     "name": "Sakura_Haruno",
     "village": "Leaf",
     "objective": "Become a strong ninja and protect her loved ones",
-    "slogan": "I'll do my best!"
+    "definition": "Dedication"
   },
   {
     "name": "Obito_Uchiha",
     "village": "Leaf",
     "objective": "Create a world of infinite tsukuyomi",
-    "slogan": "Those in the ninja world who break the rules and regulations are called trash, but those who don't care about their companions are even worse than trash."
+    "definition": "Betrayal"
   },
   {
     "name": "Itachi_Uchiha",
     "village": "Leaf",
     "objective": "Protect the Leaf and his brother",
-    "slogan": "Self-sacrifice… A nameless shinobi who protects peace within its shadow… That is a true shinobi."
+    "definition": "Sacrifice"
   },
   {
     "name": "Kakashi_Hatake",
     "village": "Leaf",
     "objective": "Protect the Leaf and its people",
-    "slogan": "I'm Kakashi Hatake. Things I like and things I hate? I don't feel like telling you that. My dreams for the future? Never really thought about it. As for my hobbies… I have lots of hobbies."
+    "definition": "Mystery"
   },
   {
     "name": "Gaara",
     "village": "Sand",
     "objective": "Protect the Sand and its people",
-    "slogan": "A true ninja is one who endures no matter what gets thrown at him… Let me explain something to you, there is no such thing as a painless lesson, they just don't exist. Sacrifices are necessary, you can't gain anything without losing something."
+    "definition": "Perseverance"
   },
   {
     "name": "Orochimaru",
     "village": "Sound",
     "objective": "Gain immortality and power",
-    "slogan": "Either people change or they die before they do. It's one or the other."
+    "definition": "Ambitious"
   },
   {
     "name": "Minato_Namikaze",
     "village": "Leaf",
     "objective": "Protect the Leaf and its people",
-    "slogan": "The true measure of a shinobi is not how he lives, but how he dies."
+    "define_in_one_word": "Flash"
   },
   {
     "name": "Hashirama_Senju",
     "village": "Leaf",
     "objective": "Create a peaceful world",
-    "slogan": "The true power of the Uchiha is love!"
+    "define_in_one_word": "Peaceful"
   }
-
 ]
+
