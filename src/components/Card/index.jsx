@@ -1,10 +1,10 @@
 import { Link } from 'react-router-dom';
-export function CharacterCard(props) {
+export function Card(props) {
   return (
     <div className="max-w-sm md:w-80 w-72 rounded overflow-hidden shadow-lg mb-6">
       <img className="md:w-80 md:h-52 w-72" src={`/public/images/${props.name}.png`} />
         <div className="pl-6 pr-6 py-4">
-          <div className="font-bold text-xl mb-2">{props.name}</div>
+          <div className="font-bold text-xl mb-2">{props.name.replace("_", " ")}</div>
           <p className="text-gray-700 text-base">
             <small className="text-sm"><strong className="font-medium">Objective:</strong> {props.objective}</small>
           </p>
